@@ -1,16 +1,24 @@
+# [rsschool-cv](https://kkoaalla.github.io/rsschool-cv/cv)
+
 ## Tanya Bogacheva
 
 <image src="IMG_3776.jpg">
 
-### Contacts
+<hr>
+
+## Contacts
 
 **Phone:** +7 985 141-89-66
 **Email:** tatiana.bogacheva.a@gmail.com
 **Telegram:** @kkoaalla
 **Rs school discord server:** Tatiana Bogacheva (@kkoaalla)
 
+<hr>
+
 ## About me
 I just graduated from the university with a technical degree. I study programming at school 21 in Moscow. I want to become a frontend developer. I am responsible and easy to learn. I also know how to work in a team.
+
+<hr>
 
 ## Skills
 - Python
@@ -18,6 +26,8 @@ I just graduated from the university with a technical degree. I study programmin
 - JavaScript Basics
 - HTML, CSS
 - Git, GitHub, GitLab
+
+<hr>
 
 ## Code example
 ```
@@ -36,15 +46,21 @@ function banana(){
 }
 ```
 
+<hr>
+
 ## Project experience
 
 [CV](https://github.com/kkoaalla/rsschool-cv)
+
+<hr>
 
 ## Courses
 
 1. Front-End Self-Paced Online Program on [EPAM](https://learn.epam.com/). (In progress)
 2. Responsive Web Design on [Free Code Camp](https://www.freecodecamp.org/). (In progress)
 3. Introduction to JavaScript on [Sololearn](https://www.sololearn.com/). (Completed)
+
+<hr>
 
 ## Languages:
 - English - Upper-intermediate (I attended a language school in Malta)
