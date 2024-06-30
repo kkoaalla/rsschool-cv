@@ -2,16 +2,16 @@
 
 ## Tanya Bogacheva
 
-![image](IMG_3776.jpg)
+![image](IMG_3776.JPG)
 
 <hr>
 
 ## Contacts
 
-**Phone:** +7 985 141-89-66
-**Email:** tatiana.bogacheva.a@gmail.com
-**Telegram:** @kkoaalla
-**Rs school discord server:** Tatiana Bogacheva (@kkoaalla)
+- **Phone:** +7 985 141-89-66
+- **Email:** tatiana.bogacheva.a@gmail.com
+- **Telegram:** @kkoaalla
+- **Rs school discord server:** Tatiana Bogacheva (@kkoaalla)
 
 <hr>
 
