@@ -2,7 +2,7 @@
 
 ## Tanya Bogacheva
 
-<image src="IMG_3776.jpg">
+![image](IMG_3776.jpg)
 
 <hr>
 
