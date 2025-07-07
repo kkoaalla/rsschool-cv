@@ -1,1 +1,1 @@
-# rsschool-cv
+[cd # rsschool-cv](https://kkoaalla.github.io/rsschool-cv/cv)
