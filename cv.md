@@ -1,5 +1,3 @@
-# [rsschool-cv](https://kkoaalla.github.io/rsschool-cv/cv)
-
 ## Tanya Bogacheva
 
 ![image](cv_photo.jpg)
@@ -16,7 +14,15 @@
 <hr>
 
 ## About me
-Last year, I graduated from the university with a degree in engineering. I studied programming at School 21 in Moscow. I'm currently working as a software engineer, and I want to retrain as a frontend developer. I love learning new things and working in a team.
+Last year, I graduated from the university with a degree in engineering. I studied programming at School 21 in Moscow. I'm currently working as an engineer, but I want to retrain as a frontend developer. I love learning new things and working in a team.
+
+<hr>
+
+## Education
+**Moscow Polytechnic University (2019 - 2024)**
+
+An engineer in the automotive industry
+
 
 <hr>
 
