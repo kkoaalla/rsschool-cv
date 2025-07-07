@@ -1,5 +1,7 @@
 ## Tanya Bogacheva
 
+![image](cv_photo.jpg)
+
 <hr>
 
 ## Contacts
